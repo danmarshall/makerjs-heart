@@ -1,7 +1,5 @@
 var makerjs = require('makerjs');
 
-var makerjs = require('../target/js/node.maker.js');
-
 function Heart(r, a2) {
 
     var a = a2 / 2;
