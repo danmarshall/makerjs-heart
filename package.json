@@ -1,0 +1,25 @@
+{
+  "name": "makerjs-heart",
+  "version": "1.0.0",
+  "description": "A parametric heart drawing, for Maker.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danmarshall/makerjs-heart.git"
+  },
+  "keywords": [
+    "makerjs"
+  ],
+  "author": "Dan Marshall",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/danmarshall/makerjs-heart/issues"
+  },
+  "homepage": "https://github.com/danmarshall/makerjs-heart",
+  "dependencies": {
+    "makerjs": "^0.6.1"
+  }
+}
