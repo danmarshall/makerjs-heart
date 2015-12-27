@@ -1,6 +1,6 @@
 {
   "name": "makerjs-heart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A parametric heart drawing, for Maker.js",
   "main": "index.js",
   "scripts": {
